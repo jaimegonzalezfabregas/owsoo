@@ -1,0 +1,1 @@
+console=ttySGK0,115200 noinitrd mem=74M rw rootfstype=jffs2 root=/dev/mtdblock3 init=linuxrc

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <video src="rtmp://192.168.137.184/flash/1:admin:admin"></video>
+    <img id="0" src="http://admin:admin@192.168.137.184/tmpfs/auto.jpg"></img>
+    <script>
+        // document.getElementById("0").addEventListener('load', () => {  });
+
+        function go() {
+            document.getElementById("0").src = "http://admin:admin@192.168.137.184/tmpfs/auto.jpg#" + Math.random();
+            setTimeout(go, 500)
+        }
+        go()
+
+    </script>
+</body>
+
+</html>

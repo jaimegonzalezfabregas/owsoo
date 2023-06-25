@@ -1,0 +1,27 @@
+[2023_06_25 19:42:25] ipc_server start.
+[2023_06_25 19:42:26] ircut: display switch(blackwhite -> color).
+[2023_06_25 19:42:31] user(admin) login  for  live stream.
+[2023_06_25 19:42:45] user(admin) login  for  live stream.
+[2023_06_25 19:49:56] P2P NET NAT_Type: 2
+[2023_06_25 20:02:49] user(admin) logout from live stream.
+[2023_06_25 20:03:05] user(admin) login  for  live stream.
+[2023_06_25 14:08:26] user(admin) login  for  rtmp stream.
+[2023_06_25 14:16:35] user(admin) logout from live stream.
+[2023_06_25 14:16:48] user(admin) login  for  live stream.
+[2023_06_25 14:17:38] user(admin) login  for  rtmp stream.
+[2023_06_25 14:18:32] user(admin) logout from rtmp stream.
+[2023_06_25 14:22:53] user(admin) login  for  rtmp stream.
+[2023_06_25 14:23:25] user(admin) logout from rtmp stream.
+[2023_06_25 14:23:28] user(admin) login  for  rtmp stream.
+[2023_06_25 14:24:08] user(admin) logout from rtmp stream.
+[2023_06_25 14:24:44] user(admin) login  for  rtmp stream.
+[2023_06_25 14:25:03] user(admin) logout from rtmp stream.
+[2023_06_25 14:25:03] user(admin) login  for  rtmp stream.
+[2023_06_25 14:25:15] user(admin) logout from rtmp stream.
+[2023_06_25 14:25:27] user(admin) login  for  rtmp stream.
+[2023_06_25 14:25:46] user(admin) logout from rtmp stream.
+[2023_06_25 14:25:46] user(admin) login  for  rtmp stream.
+[2023_06_25 14:26:16] user(admin) logout from rtmp stream.
+[2023_06_25 14:26:16] user(admin) login  for  rtmp stream.
+[2023_06_25 14:26:52] user(admin) logout from rtmp stream.
+[2023_06_25 14:27:34] user(admin) login  for  rtmp stream.
