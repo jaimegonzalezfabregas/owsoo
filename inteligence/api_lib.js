@@ -1,4 +1,4 @@
-const IP = "192.168.137.184"
+const IP = "192.168.137.169"
 const PARAM_CGI = "http://" + IP + "/web/cgi-bin/hi3510/param.cgi"
 const USERNAME = "admin";
 const PASSWORD = "admin";
@@ -44,5 +44,5 @@ function set_ir_auto(threshold) {
 
 }
 
-set_ir_auto(1024)
+set_ir(1)
 

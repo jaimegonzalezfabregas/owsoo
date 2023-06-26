@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tensorflow/tfjs-node": "^4.8.0",
+    "@vladmandic/human": "^3.0.7",
     "q": "^1.5.1",
     "request-promise": "^4.2.6"
   }

@@ -15,7 +15,7 @@ ffplay.exe -x 482 -y 281 -probesize 32 -sync ext -fflags nobuffer -flags low_del
 
 
 **FASTEST**
-ffplay.exe -x 482 -y 281 -fflags nobuffer -flags low_delay -framedrop rtsp://192.168.137.184:554/11
+ffplay.exe -x 482 -y 281 -fflags nobuffer -flags low_delay -framedrop rtsp://192.168.137.43:554/11
 
 
 # streams por rtmp
