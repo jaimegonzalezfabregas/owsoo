@@ -32,7 +32,7 @@ let set =
             "-gamma=0", // ? 0..3
             "-aemode=1",
             "-image_type=1",
-            "-imgmode=0",
+            "-imgmode=1",
             "cmd=setldcattr",
             "-ldc_ratio=0" // ?
         ].join("&"),
